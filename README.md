@@ -29,10 +29,11 @@ This will start the server and allow you to make API requests.
 For detailed information about available endpoints and how to use them, refer to the API Documentation (replace with your actual API documentation link).
 
 ## Technologies Used
-Node.js
-Express.js
-Sequelize ORM
-MySQL
+- Node.js
+- Express.js
+- Sequelize ORM
+- MySQL
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 Fork the repository.
