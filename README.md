@@ -1,6 +1,9 @@
 # E-commerce Back-End
 
 This is the back-end component of an E-commerce application. It uses Sequelize ORM to interact with a MySQL database to manage product, category, and tag data. This application provides a RESTful API for managing e-commerce data.
+[![Demo Video]](https://drive.google.com/file/d/1YuDkPYp7eD2mlIlJ9E2BhUakFKesvrvl/view?usp=sharing)
+
+
 
 ## Table of Contents
 
