@@ -15,10 +15,31 @@ This is the back-end component of an E-commerce application. It uses Sequelize O
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/E-commerce-Back-End.git
+## Usage
+To start the application, run:
+```bash
+npm start 
 ```
+This will start the server and allow you to make API requests.
 
-```
-cd E-commerce-Back-End
-```
+## Endpoints
+/api/categories - Manage product categories.
+/api/products - Manage products with associated categories and tags.
+/api/tags - Manage product tags.
+For detailed information about available endpoints and how to use them, refer to the API Documentation (replace with your actual API documentation link).
+
+## Technologies Used
+Node.js
+Express.js
+Sequelize ORM
+MySQL
+## Contributing
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+Fork the repository.
+Create a new branch for your feature/bugfix.
+Make your changes and test them.
+Commit your changes and push them to your forked repository.
+Create a pull request describing your changes.
+
+## License
+This project is licensed under the MIT License.
