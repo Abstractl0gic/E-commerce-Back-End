@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "root",
+      "password": "31415",
+      "database": "ecommerce_db",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "31415",
+      "database": "ecommerce_db_test",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "31415",
+      "database": "ecommerce_db_production",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
