@@ -19,6 +19,6 @@ This is the back-end component of an E-commerce application. It uses Sequelize O
    git clone https://github.com/your-username/E-commerce-Back-End.git
 ```
 
-```bash
+```
 cd E-commerce-Back-End
 ```
